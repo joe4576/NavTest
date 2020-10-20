@@ -33,7 +33,8 @@ public class HomeFragment extends Fragment {
             }
         });*/
 
-        textView.setText("Test");
+        //textView.setText("Test");
+        textView.setText("New test");
 
         Log.d("debug_string", "Home fragment onCreateView");
 
